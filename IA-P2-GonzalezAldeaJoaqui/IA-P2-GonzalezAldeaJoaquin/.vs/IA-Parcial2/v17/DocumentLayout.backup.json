@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\davinci\\dise\u00F1oniveles\\p2\\ia-parcial2\\assets\\scripts\\patroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\davinci\\dise\u00F1oniveles\\p2\\ia-parcial2\\assets\\scripts\\fieldofview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fieldofview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\patrollerstatepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patrollerstatepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pf_grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pf_grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pf_playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pf_playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pf_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pf_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pf_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pf_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\pf_nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\pf_nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\assets\\scripts\\phatfinding scripts\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA367B4-1F10-00A4-957D-886E477E67FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\phatfinding scripts\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FieldOfView.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\FieldOfView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FieldOfView.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\FieldOfView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FieldOfView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:06:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatrollerStatePatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\PatrollerStatePatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PatrollerStatePatrol.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\PatrollerStatePatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PatrollerStatePatrol.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:14:26.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patroller.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Patroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patroller.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Patroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patroller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:14:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PF_Grid.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PF_Grid.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PF_Grid.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:35:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PF_PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PF_PlayerController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PF_PlayerController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:16:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PF_Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PF_Entity.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PF_Entity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:06:13.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PF_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PF_Manager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PF_Manager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:01:53.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\Pathfinding.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\Pathfinding.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwLQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:00:00.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PF_Nodes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Nodes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PF_Nodes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PF_Nodes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PF_Nodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:58:01.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Phatfinding scripts\\PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Davinci\\Dise\u00F1oNiveles\\P2\\IA-Parcial2\\Assets\\Scripts\\Phatfinding scripts\\PriorityQueue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Phatfinding scripts\\PriorityQueue.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:45:31.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
